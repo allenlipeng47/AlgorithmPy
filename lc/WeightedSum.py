@@ -1,4 +1,5 @@
-import types
+# Leetcode 339 http://www.jianshu.com/p/37d20f8adf7a
+
 
 class Solution(object):
 
