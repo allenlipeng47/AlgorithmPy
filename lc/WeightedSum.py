@@ -14,6 +14,7 @@ class Solution(object):
             else:
                 ans[0] += ele * depth
 
+
 s = Solution()
 l = [[1, 1], 2, [1, 1]]
 ans = s.weightedSum(list)
